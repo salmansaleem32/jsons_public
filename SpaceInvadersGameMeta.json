@@ -38,35 +38,84 @@
     ],
     "Enemies": [
         {
-            "Name": "E1",
+            "Name": "Alien 1",
             "Health": "100",
             "FireRate": "4",
             "FireDamage": "20",
             "Description": "Simple Enemy"
         },
         {
-            "Name": "E2",
+            "Name": "Alien 2",
             "Health": "150",
             "FireRate": "8",
             "FireDamage": "25",
             "Description": "E2 Enemy wih different color variations."
         },
         {
-            "Name": "E3",
+            "Name": "Alien 3",
             "Health": "200",
             "FireRate": "15",
             "FireDamage": "30",
             "Description": "E3 Enemy with description"
         },
         {
-            "Name": "E4",
+            "Name": "Alien 4",
             "Health": "250",
             "FireRate": "25",
             "FireDamage": "35",
             "Description": "E4 Enemy with description"
         },
         {
-            "Name": "Boss Enemy",
+            "Name": "Alien 5",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Alien 6",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Alien 7",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Alien 8",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Enemy 1",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Enemy 2",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Enemy 3",
+            "Health": "300",
+            "FireRate": "40",
+            "FireDamage": "40",
+            "Description": "E5 Enemy with description"
+        },
+        {
+            "Name": "Enemy 4",
             "Health": "300",
             "FireRate": "40",
             "FireDamage": "40",
