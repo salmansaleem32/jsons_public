@@ -125,52 +125,52 @@
     "LevelsMeta": [
         {
             "LevelName": "Level 1",
-            "TotalEnemiesToKill": 3,
+            "TotalEnemiesToKill": 5,
             "DifficultyAdditiveFactor": 0
         },
         {
             "LevelName": "Level 2",
-            "TotalEnemiesToKill": 4,
+            "TotalEnemiesToKill": 8,
             "DifficultyAdditiveFactor": 0.5
         },
         {
             "LevelName": "Level 3",
-            "TotalEnemiesToKill": 5,
+            "TotalEnemiesToKill": 10,
             "DifficultyAdditiveFactor": 0.8
         },
         {
             "LevelName": "Level 4",
-            "TotalEnemiesToKill": 5,
+            "TotalEnemiesToKill": 15,
             "DifficultyAdditiveFactor": 1.2
         },
         {
             "LevelName": "Level 5",
-            "TotalEnemiesToKill": 6,
+            "TotalEnemiesToKill": 18,
             "DifficultyAdditiveFactor": 1.1
         },
         {
             "LevelName": "Level 6",
-            "TotalEnemiesToKill": 7,
+            "TotalEnemiesToKill": 22,
             "DifficultyAdditiveFactor": 1.2
         },
         {
             "LevelName": "Level 7",
-            "TotalEnemiesToKill": 8,
+            "TotalEnemiesToKill": 28,
             "DifficultyAdditiveFactor": 1.2
         },
         {
             "LevelName": "Level 8",
-            "TotalEnemiesToKill": 8,
+            "TotalEnemiesToKill": 34,
             "DifficultyAdditiveFactor": 1.4
         },
         {
             "LevelName": "Level 9",
-            "TotalEnemiesToKill": 10,
+            "TotalEnemiesToKill": 40,
             "DifficultyAdditiveFactor": 1.4
         },
         {
             "LevelName": "Level 10",
-            "TotalEnemiesToKill": 12,
+            "TotalEnemiesToKill": 52,
             "DifficultyAdditiveFactor": 1.4
         }
     ]
