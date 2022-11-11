@@ -1,177 +1,177 @@
 {
-    "Ships": [
-        {
-            "Name": "S1",
-            "Health": "100",
-            "FireRate": "10",
-            "FireDamage": "20",
-            "Description": "Simple Ship"
-        },
-        {
-            "Name": "S2",
-            "Health": "150",
-            "FireRate": "15",
-            "FireDamage": "25",
-            "Description": "S2 Ship wih different color variations."
-        },
-        {
-            "Name": "S3",
-            "Health": "200",
-            "FireRate": "20",
-            "FireDamage": "30",
-            "Description": "S3 ship with description"
-        },
-        {
-            "Name": "S4",
-            "Health": "250",
-            "FireRate": "25",
-            "FireDamage": "35",
-            "Description": "S4 ship with description"
-        },
-        {
-            "Name": "S5",
-            "Health": "300",
-            "FireRate": "30",
-            "FireDamage": "40",
-            "Description": "S5 ship with description"
-        }
-    ],
-    "Enemies": [
-        {
-            "Name": "Alien 1",
-            "Health": "100",
-            "FireRate": "4",
-            "FireDamage": "20",
-            "Description": "Simple Enemy"
-        },
-        {
-            "Name": "Alien 2",
-            "Health": "150",
-            "FireRate": "8",
-            "FireDamage": "25",
-            "Description": "E2 Enemy wih different color variations."
-        },
-        {
-            "Name": "Alien 3",
-            "Health": "200",
-            "FireRate": "15",
-            "FireDamage": "30",
-            "Description": "E3 Enemy with description"
-        },
-        {
-            "Name": "Alien 4",
-            "Health": "250",
-            "FireRate": "25",
-            "FireDamage": "35",
-            "Description": "E4 Enemy with description"
-        },
-        {
-            "Name": "Alien 5",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Alien 6",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Alien 7",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Alien 8",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Enemy 1",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Enemy 2",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Enemy 3",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        },
-        {
-            "Name": "Enemy 4",
-            "Health": "300",
-            "FireRate": "40",
-            "FireDamage": "40",
-            "Description": "E5 Enemy with description"
-        }
-    ],
-    "LevelsMeta": [
-        {
-            "LevelName": "Level 1",
-            "TotalEnemiesToKill": 5,
-            "DifficultyAdditiveFactor": 0
-        },
-        {
-            "LevelName": "Level 2",
-            "TotalEnemiesToKill": 8,
-            "DifficultyAdditiveFactor": 0.5
-        },
-        {
-            "LevelName": "Level 3",
-            "TotalEnemiesToKill": 10,
-            "DifficultyAdditiveFactor": 0.8
-        },
-        {
-            "LevelName": "Level 4",
-            "TotalEnemiesToKill": 15,
-            "DifficultyAdditiveFactor": 1.2
-        },
-        {
-            "LevelName": "Level 5",
-            "TotalEnemiesToKill": 18,
-            "DifficultyAdditiveFactor": 1.1
-        },
-        {
-            "LevelName": "Level 6",
-            "TotalEnemiesToKill": 22,
-            "DifficultyAdditiveFactor": 1.2
-        },
-        {
-            "LevelName": "Level 7",
-            "TotalEnemiesToKill": 28,
-            "DifficultyAdditiveFactor": 1.2
-        },
-        {
-            "LevelName": "Level 8",
-            "TotalEnemiesToKill": 34,
-            "DifficultyAdditiveFactor": 1.4
-        },
-        {
-            "LevelName": "Level 9",
-            "TotalEnemiesToKill": 40,
-            "DifficultyAdditiveFactor": 1.4
-        },
-        {
-            "LevelName": "Level 10",
-            "TotalEnemiesToKill": 52,
-            "DifficultyAdditiveFactor": 1.4
-        }
-    ]
+  "Ships": [
+    {
+      "Name": "S1",
+      "Health": "100",
+      "FireRate": "12",
+      "FireDamage": "30",
+      "Description": "Simple Ship"
+    },
+    {
+      "Name": "S2",
+      "Health": "150",
+      "FireRate": "6",
+      "FireDamage": "25",
+      "Description": "S2 Ship wih different color variations."
+    },
+    {
+      "Name": "S3",
+      "Health": "200",
+      "FireRate": "15",
+      "FireDamage": "10",
+      "Description": "S3 ship with description"
+    },
+    {
+      "Name": "S4",
+      "Health": "250",
+      "FireRate": "5",
+      "FireDamage": "35",
+      "Description": "S4 ship with description"
+    },
+    {
+      "Name": "S5",
+      "Health": "300",
+      "FireRate": "10",
+      "FireDamage": "20",
+      "Description": "S5 ship with description"
+    }
+  ],
+  "Enemies": [
+    {
+      "Name": "Alien 1",
+      "Health": "100",
+      "FireRate": "10",
+      "FireDamage": "20",
+      "Description": "Simple Enemy"
+    },
+    {
+      "Name": "Alien 2",
+      "Health": "150",
+      "FireRate": "10",
+      "FireDamage": "25",
+      "Description": "E2 Enemy wih different color variations."
+    },
+    {
+      "Name": "Alien 3",
+      "Health": "200",
+      "FireRate": "20",
+      "FireDamage": "30",
+      "Description": "E3 Enemy with description"
+    },
+    {
+      "Name": "Alien 4",
+      "Health": "250",
+      "FireRate": "35",
+      "FireDamage": "35",
+      "Description": "E4 Enemy with description"
+    },
+    {
+      "Name": "Alien 5",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Alien 6",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Alien 7",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Alien 8",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Enemy 1",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "50",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Enemy 2",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Enemy 3",
+      "Health": "300",
+      "FireRate": "40",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    },
+    {
+      "Name": "Enemy 4",
+      "Health": "300",
+      "FireRate": "50",
+      "FireDamage": "40",
+      "Description": "E5 Enemy with description"
+    }
+  ],
+  "LevelsMeta": [
+    {
+      "LevelName": "Level 1",
+      "TotalEnemiesToKill": 15,
+      "DifficultyAdditiveFactor": 0.5
+    },
+    {
+      "LevelName": "Level 2",
+      "TotalEnemiesToKill": 20,
+      "DifficultyAdditiveFactor": 0.5
+    },
+    {
+      "LevelName": "Level 3",
+      "TotalEnemiesToKill": 20,
+      "DifficultyAdditiveFactor": 0.8
+    },
+    {
+      "LevelName": "Level 4",
+      "TotalEnemiesToKill": 25,
+      "DifficultyAdditiveFactor": 1.2
+    },
+    {
+      "LevelName": "Level 5",
+      "TotalEnemiesToKill": 20,
+      "DifficultyAdditiveFactor": 1.3
+    },
+    {
+      "LevelName": "Level 6",
+      "TotalEnemiesToKill": 22,
+      "DifficultyAdditiveFactor": 1.4
+    },
+    {
+      "LevelName": "Level 7",
+      "TotalEnemiesToKill": 28,
+      "DifficultyAdditiveFactor": 1.2
+    },
+    {
+      "LevelName": "Level 8",
+      "TotalEnemiesToKill": 34,
+      "DifficultyAdditiveFactor": 1.4
+    },
+    {
+      "LevelName": "Level 9",
+      "TotalEnemiesToKill": 40,
+      "DifficultyAdditiveFactor": 1.5
+    },
+    {
+      "LevelName": "Level 10",
+      "TotalEnemiesToKill": 52,
+      "DifficultyAdditiveFactor": 1.5
+    }
+  ]
 }
